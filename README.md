@@ -5,8 +5,6 @@ Based on [Dear ImGui](https://github.com/ocornut/imgui).
 ImGuiBorderlessWindow provides a easy ready-to-use template for a Borderless Windowed App, packed with multiple Themes, Fonts and easy Asset loading.
 
 This is a perfect template for Apps like Mod Menus, Helper tools, Utility application etc.
-
-[Documentation](https://docs.avnishgamedev.com/documentation/imguiborderlesswindow/)
  
 # Steps to setup
 1. Clone the repo using the following command or [download it as a zip](https://github.com/AvnishGameDev/ImGuiBorderlessWindow/archive/refs/heads/main.zip).\
